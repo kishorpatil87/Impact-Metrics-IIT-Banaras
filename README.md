@@ -1,4 +1,5 @@
 📊 Impact-Metrics: Data Analytics Competition – IIT BHU (Jagriti 2025)
+
 This project was submitted as part of the Impact-Metrics 2024 competition organized by IIT (BHU), Varanasi during their annual festival Jagriti 2025. The competition challenged participants to clean real-world datasets, derive insights, build dashboards, and apply machine learning to create impactful data-driven solutions.
 
 🚀 Project Overview
